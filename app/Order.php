@@ -9,14 +9,7 @@ class Order extends Model
     protected $table = 'order';
     protected $fillable = [
         'cart_id',
-        'nama_penerima',
-        'no_tlp',
-        'alamat',
-        'provinsi',
-        'kota',
-        'kecamatan',
-        'kelurahan',
-        'kodepos',
+    
     ];
 
     public function cart() {
