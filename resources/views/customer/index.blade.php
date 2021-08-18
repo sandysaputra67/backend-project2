@@ -40,11 +40,11 @@
               <tbody>
                 <tr>
                   <td>1</td>
-                  <td>Amin</td>
-                  <td>amin@gmail.com</td>
-                  <td>085852527575</td>
+                  <td>desta</td>
+                  <td>desta@gmail.com</td>
+                  <td>081225141</td>
                   <td>
-                    Jln. Jend Sudirman no.1, Kudus
+                    Jln. Jend Sudirman no.1, semarang
                   </td>
                   <td>
                     Aktif
@@ -57,7 +57,7 @@
                   <td>2</td>
                   <td>Budi</td>
                   <td>budi@gmail.com</td>
-                  <td>085852527576</td>
+                  <td>0816664444</td>
                   <td>
                     Jln. Jend Sudirman no.2, Kudus
                   </td>
@@ -72,7 +72,7 @@
                   <td>3</td>
                   <td>Iwan</td>
                   <td>iwan@gmail.com</td>
-                  <td>085852527577</td>
+                  <td>0816664444</td>
                   <td>
                     Jln. Jend Sudirman no.3, Kudus
                   </td>
@@ -87,7 +87,7 @@
                   <td>4</td>
                   <td>Lala</td>
                   <td>lala@gmail.com</td>
-                  <td>085852527578</td>
+                  <td>0816664444</td>
                   <td>
                     Jln. Jend Sudirman no.4, Kudus
                   </td>
@@ -102,7 +102,7 @@
                   <td>5</td>
                   <td>Didi</td>
                   <td>didi@gmail.com</td>
-                  <td>085852527579</td>
+                  <td>0816664444</td>
                   <td>
                     Jln. Jend Sudirman no.5, Kudus
                   </td>
